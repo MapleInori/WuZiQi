@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3056822665414901166}
   - component: {fileID: 3872275718045917210}
-  - component: {fileID: 5433801249179892789}
+  - component: {fileID: -5959398631402029291}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -55,7 +55,7 @@ MonoBehaviour:
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
---- !u!114 &5433801249179892789
+--- !u!114 &-5959398631402029291
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -70,7 +70,7 @@ MonoBehaviour:
   zeroPosition: {x: -2.45, y: -2.45, z: 0}
   cellWidth: 0.35
   chessType: 0
-  chessList: []
+  photonView: {fileID: 0}
   blackChess: {fileID: 2738743561120717926, guid: f18279086237f334e8c48dba766d9e87, type: 3}
   whiteChess: {fileID: 3405257648073026952, guid: 92d9247541d039542a70bbb9c786f06e, type: 3}
   playerState: 0
